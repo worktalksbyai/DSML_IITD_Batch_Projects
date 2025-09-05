@@ -70,7 +70,3 @@ This model can be used for:
 * Real estate market analysis.
 * Assisting buyers/sellers in price estimation.
 * Supporting policymakers in housing development strategies.
-
----
-
-Would you like me to also add a **“How to Run” section** with Colab commands (mount Drive, run preprocessing, train model) so it looks like a complete project README?
